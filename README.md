@@ -21,10 +21,10 @@ This project focuses on developing digital literacy skills including safe intern
 ### 📂Task 1: Infographic
 - Created using Canva
 - Topics: digital safety, tools, email etiquette
-📎 [View Infographic](link)
+
 
 ### 📂Task 2: Professional Platforms
-- GitHub: (link)
+- GitHub: (https://github.com/eswaraprasdg)
 - LinkedIn: (link)
 - Kaggle: (link)
 
