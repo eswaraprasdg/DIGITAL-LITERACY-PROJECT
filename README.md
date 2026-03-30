@@ -25,8 +25,8 @@ This project focuses on developing digital literacy skills including safe intern
 
 ### 📂Task 2: Professional Platforms
 - GitHub: (https://github.com/eswaraprasdg)
-- LinkedIn: (https://www.kaggle.com/eswaraprasadgopinath)
-- Kaggle: (link)
+- LinkedIn: (https://www.linkedin.com/in/eswaraprasad-g-a763533bb/)
+- Kaggle: (https://www.kaggle.com/eswaraprasadgopinath)
 
 ### 📂Task 3: Coding & Form
 - CodeChef Problem: (name)
